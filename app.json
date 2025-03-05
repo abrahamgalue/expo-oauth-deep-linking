@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "com.oauth-expo-deep-linking",
     "name": "expo-oauth-deep-linking",
     "slug": "expo-oauth-deep-linking",
     "version": "1.0.0",
@@ -19,7 +20,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.abrahamgalue.expooauthdeeplinking"
     },
     "web": {
       "favicon": "./assets/favicon.png"
